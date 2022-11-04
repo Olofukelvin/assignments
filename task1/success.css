@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: darkgray;
+    margin-top: 40px;
+}
+
+.wrapper{
+    width: 350px;
+    height: 350px;
+    margin: auto auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.img{
+    width: 200px;
+    margin: 10px 2px 5px 70px;
+}
+
+p{
+    font-size: 30px;
+    font-weight: 300;
+    color: green;
+    text-align: center;
+}

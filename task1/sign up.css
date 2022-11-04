@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: darkgray;
+    margin-top: 40px;
+}
+
+.login-form{
+    width: 350px;
+    margin: auto auto;
+    background-color: white;
+    padding: 10px 40px 60px 20px;
+    border-radius: 10px;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    margin: 40px 0;
+}
+
+.paragraph-input{
+    font-size: 20px;
+    margin: 25px 0;
+}
+
+.input{
+    font-size: 16px;
+    width: 100%;
+    padding: 15px 10px;
+    border: 1px solid gray;
+    border-radius: 7px;
+    background-color: rgb(236, 227, 227);
+
+}
+
+.login-form button{
+    font-size: 18px;
+    font-weight: 500;
+    margin: 20px auto;
+    width: 100%;
+    border-radius: 6px;
+    border: 0;
+    padding: 10px 15px;
+    background-color: rgb(39, 6, 155);
+    color: white;
+    cursor: pointer;
+}
+
+.p-acct{
+    text-align: center;
+    margin-top: 2px;
+}
+
+.color{
+    width: 40%;
+    height: 40px;
+}
